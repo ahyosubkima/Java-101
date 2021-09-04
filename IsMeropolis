@@ -1,3 +1,4 @@
+```
 /*
  * 메트로폴리스의 기준은 아래 두 조건 중 하나를 만족해야합니다.
 
@@ -32,4 +33,4 @@ public class Metropolis {
 		boolean isMetropolis = ((isCapital == true && population >= 100) || (riches >= 50));
 		System.out.println("이 도시는 메트로폴리스입니까?	: " + isMetropolis);
 	}
-}
+}```
